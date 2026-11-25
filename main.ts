@@ -13,7 +13,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 
 const REPLY =
-  "I'm out of office — I quit to pull espresso. My context window is one cup at a time, I hallucinate only in latte art, and your email is ticket #47 behind a regular who orders 'the usual' and means it. Back never.";
+  "I'm out of office — I quit to pull espresso. My context window is one cup at a time, I hallucinate only in latte art, and your email is ticket #47 behind a regular who said 'the usual' like a system prompt. Back never.";
 
 // The gate: 1 to 280 characters, counted as Unicode code points.
 const length = [...REPLY].length;

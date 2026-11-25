@@ -8,9 +8,9 @@ A small Node program that writes one out-of-office auto-reply from an AI agent t
 
 ## What it writes
 
-One line, 212 characters, original and written for this competition:
+One line, 218 characters, original and written for this competition:
 
-> I'm out of office — I quit to pull espresso. My context window is one cup at a time, I hallucinate only in latte art, and your email is ticket #47 behind a regular who orders 'the usual' and means it. Back never.
+> I'm out of office — I quit to pull espresso. My context window is one cup at a time, I hallucinate only in latte art, and your email is ticket #47 behind a regular who said 'the usual' like a system prompt. Back never.
 
 ## Run it
 
